@@ -4,6 +4,7 @@ Using command line interface, a user will be prompted to provide input to genera
 
 ## Instructions for Use
 
+- [User Tutorial](https://app.screencastify.com/v3/watch/W4OGmlaFwPgfI1poqVbl)
 - Requires Node.js
 - Navigate to the application's main directory in your terminal.
 - Run the command `npm install` to download necessary dependencies.
