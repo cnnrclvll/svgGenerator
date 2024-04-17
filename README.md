@@ -16,9 +16,10 @@ Using command line interface, a user will be prompted to provide input to genera
 
 - Run `npm test` to test svg.js and shapes.js.
 
-#### Contact Info
+#### Contact Info & Links
 
-- GitHub: cnnrclvll
+- [GitHub](https://github.com/cnnrclvll)
+- [GitHub Repo](https://github.com/cnnrclvll/svgGenerator)
 - Email: cnnrclvll@gmail.com
 
 ##### Dependencies
